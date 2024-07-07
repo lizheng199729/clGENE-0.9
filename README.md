@@ -22,7 +22,7 @@ To install the latest version of `clGENE`, you can use the following command in 
 
 ```R
 # install.packages("devtools")
-devtools::install_github("lizheng199729/clGENE")
+devtools::install_github("lizheng199729/clGENE-0.9")
 # Load clGENE
 library(clGENE)
 
