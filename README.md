@@ -1,10 +1,10 @@
-# spGENE: An R Package for Integrating Exercise and Disease Data to Uncover Key Molecular Targets
+# clGENE a framework designed to integrate multi-omics data based on clinical phenotypic information
 ![幻灯片1](https://github.com/lizheng199729/clGENE/assets/138444869/283902d1-f83c-46e3-a725-d13fc8b20639)
 
 
 ## Introduction
 
-`spGENE` An R Package for Integrating Exercise and Disease Data to Uncover Key Molecular Targets
+`clGENE a framework designed to integrate multi-omics data based on clinical phenotypic information
 
 
 ## Getting Started
